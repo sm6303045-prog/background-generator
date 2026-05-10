@@ -1,3 +1,3 @@
 function changeBackground(){
-document.getElementById("body").
+document.getElementById("body").style.backgroundColor="blue"
 }
