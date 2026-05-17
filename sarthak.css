@@ -1,0 +1,14 @@
+body{
+background-color: aliceblue;
+display: flex;
+gap: 12px;
+padding: 8px;
+}
+#leftSec{
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 8px;
+}
